@@ -1,0 +1,33 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "loadBalancers_tf_lb_name": {
+            "value": null
+        },
+        "virtualNetworks_tf_vnet_name": {
+            "value": null
+        },
+        "storageAccounts_terrasavas_name": {
+            "value": null
+        },
+        "availabilitySets_tf_avail_set_name": {
+            "value": null
+        },
+        "virtualMachines_tf_instance_0_name": {
+            "value": null
+        },
+        "virtualMachines_tf_instance_1_name": {
+            "value": null
+        },
+        "publicIPAddresses_tf_public_ip_name": {
+            "value": null
+        },
+        "networkInterfaces_tf_interface_0_name": {
+            "value": null
+        },
+        "networkInterfaces_tf_interface_1_name": {
+            "value": null
+        }
+    }
+}
